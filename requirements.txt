@@ -1,0 +1,13 @@
+git+https://github.com/SECQUOIA/SimuQ.git
+# installs the SimuQ fork in SECUQOIA
+
+git+https://github.com/SECQUOIA/QHDOPT.git
+# installs the QHDOPT fork in SECUQOIA
+
+
+
+# pip install -r requirements.txt
+
+
+
+
